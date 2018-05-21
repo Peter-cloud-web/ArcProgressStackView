@@ -159,7 +159,7 @@ Other methods check out in sample.
 And `XML` init:
 
 ```xml
-<<devlight.io.library.ArcProgressStackView
+<devlight.io.library.ArcProgressStackView
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     app:apsv_rounded="true"
